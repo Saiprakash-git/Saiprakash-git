@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Awesome and real world projects**
 
-- 👨‍💻 All of my projects are available at [prakash-git.github.io/avula-code-verse/](saiprakash-git.github.io/avula-code-verse/)
+- 👨‍💻 All of my projects are available at [saiprakash-git.github.io/avula-code-verse/](saiprakash-git.github.io/avula-code-verse/)
 
 - 💬 Ask me about **Mobile App dev, java, Flask , Node, Express, Sockets**
 
