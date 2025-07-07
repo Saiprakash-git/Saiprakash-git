@@ -1,4 +1,4 @@
-## Hi folks , welcome to the best repo of the internet , Not a joke  👋
+## Hi folks , welcome to the best place of the internet , Not a joke  👋
 
 <h1 align="center">Hi 👋, I'm Sai Prakash</h1>
 <h3 align="center">A passionate developer from the city of dreams - Hyderabad,India</h3>
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Awesome and real world projects**
 
-- 👨‍💻 All of my projects are available at [prakash-git.github.io/avula-code-verse/](prakash-git.github.io/avula-code-verse/)
+- 👨‍💻 All of my projects are available at [prakash-git.github.io/avula-code-verse/](saiprakash-git.github.io/avula-code-verse/)
 
 - 💬 Ask me about **Mobile App dev, java, Flask , Node, Express, Sockets**
 
