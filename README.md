@@ -1,4 +1,4 @@
-## Hi folks , welcome to the best place of the internet , Not a joke  👋
+## Hi folks 👋
 
 <h1 align="center">Hi 👋, I'm Sai Prakash</h1>
 <h3 align="center">A passionate developer from the city of dreams - Hyderabad,India</h3>
